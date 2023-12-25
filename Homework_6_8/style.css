@@ -83,7 +83,7 @@ img {
 }
 .menu__box {
     display: flex;
-    position: absolute;
+    position: fixed;
     flex-direction: column;
     top: 75px;
     right: -200%;
@@ -592,6 +592,7 @@ span.h2pink {
     display: flex;
     justify-content: space-between;
     margin-right: 230px;
+    gap: 5px;
 }
 .footer__navbar__icons a {
     display: flex;
@@ -722,6 +723,7 @@ span.h2pink {
     
     .footer__navbar__icons {
         margin-right: 23px;
+        gap: 5px;
     }
 }
 
@@ -843,6 +845,7 @@ span.h2pink {
     .footer__navbar__icons {
         margin-right: 0px;
         margin-top: 43px;
+        gap: 5px;
     }
 
     .footer__subscribe__info {
