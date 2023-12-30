@@ -99,6 +99,11 @@ img {
     z-index: 10;
 }
 
+.menu__box .menu-list {
+    list-style: none;
+    padding: 0; /* для удаления внутренних отступов у ul */
+}
+
 .menu__box h2 {
     font-family: "Lato";
     font-style: normal;
