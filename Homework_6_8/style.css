@@ -733,7 +733,7 @@ span.h2pink {
     }
 
     .top__container {
-        width: 375px;
+        width: 100vw; /*375px */
     }
 
     .logo {
@@ -814,13 +814,13 @@ span.h2pink {
     }
 
     .footer__info {
-        width: 375px;
+        width: 100vw; /*375px */
         gap: 46px;
     }
 
     .footer__subscribe {
         height: 550px;
-        width: 375px;
+        width: 100vw; /*375px */
     }
     .footer__blur {
         height: 550px;
@@ -832,7 +832,7 @@ span.h2pink {
     }
 
     .footer__navbar {
-        width: 375px;
+        width: 100vw; /*375px */
         height: 143px;
         flex-direction: column-reverse;
     }
